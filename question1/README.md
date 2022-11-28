@@ -13,6 +13,6 @@ If you run into error with any of the terraform plan command for registering pro
 below is an error i faced while trying to get this up
 
 '''
-    If Error registing Microsoft.Storage
-    az provider register --namespace Microsoft.Storage
+    If Error registing Microsoft.Storage then run  
+    `az provider register --namespace Microsoft.Storage`
 '''
